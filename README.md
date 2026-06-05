@@ -28,6 +28,15 @@ Semantic Model
         ↓
 Power BI Report / Dashboard
 ```
+## Dashboard Preview
+
+| Dashboard 1 | Dashboard 2 |
+|------------|------------|
+| ![](images/dashboard1.png) | ![](images/dashboard2.png) |
+
+| Dashboard 3 | Dashboard 4 |
+|------------|------------|
+| ![](images/dashboard3.png) | ![](images/dashboard4.png) |
 ## Tech Stack
 
 - Microsoft Fabric
